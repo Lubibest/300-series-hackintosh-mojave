@@ -128,15 +128,31 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 微星H310,微星B360,微星Z370，微星Z390
 
+关于微信主板的测试结果：
+
 经测试，微星系列B360系列的最新的BIOS通过本文方法无法安装
 
 解决方案：
 
-1.通过降级到官方发布的2018年5月至8月之间的BIOS，可以正常安装，并没有任何问题（刷BIOS要求，U盘格式FAT32,USB2.0刷入）
+1.通过降级到官方发布的2018年5月至8月之间的BIOS，可以正常安装，并没有任何问题（可以用过正常的手段刷入，刷BIOS要求，U盘格式FAT32,USB2.0刷入）
+
+2.通过添加RTC补丁，可以进行安装，关于RTC补丁的说明：https://github.com/acidanthera/RTCMemoryFixup
 
 技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
 
 华硕H310,华硕B360,华硕Z370,华硕Z390
+
+关于华硕主板的测试结果：
+
+经测试，华硕B360和Z390系列新版本的BIOS通过本文方法可能无法安装
+
+解决方法：
+
+1.通过降级BIOS（目前还未明确能正常安装的BIOS版本）(无法通过正常手段刷入，需要BIOS夹子）
+
+2.在kext/other中的替换一个文件，即可：
+
+-----删除FakeSMC.KEXT,放入VirtualSMC.kext
 
 昂达H310C
 
