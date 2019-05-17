@@ -124,6 +124,8 @@ s1220a 注入 1/2
 
 Devices/Audio/inject(手动输入）
 
+![](/Users/luzi/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Hackintosh/appleALC.png)
+
 ### 四、注意事项
 
 安装过程如果遇到任何问题，请查阅黑果小兵的两篇教程,如下：
