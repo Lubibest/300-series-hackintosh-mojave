@@ -54,7 +54,7 @@ https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 ### 二、安装
 
-#### 1.AMD显卡
+#### 1.AMD-rx显卡
 
 AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
@@ -62,13 +62,27 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
-用**clover configurator**替换U盘的**ESP分区**的EFI文件为**EFI-for-after install-AMD.zip**
+用**clover configurator**替换U盘的**ESP分区**的EFI文件为**EFI-for-after install-AMD-rx.zip**
 
 重启生效
 
 AMD显卡的机器将持续得到clover升级的支持
 
-### 2.intel
+#### 2.AMD-vega显卡
+
+AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
+
+https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
+
+安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+
+用**clover configurator**替换U盘的**ESP分区**的EFI文件为**EFI-for-after install-AMD-vega.zip**
+
+重启生效
+
+AMD-vega显卡的机器将持续得到clover升级的支持
+
+### 3.intel
 
 Intel UHD630 核显推荐安装mojave10.14.5
 
@@ -84,7 +98,7 @@ PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通
 
 intel的机器将会持续得到clover升级的支持
 
-#### 3.NVDIA显卡的机器
+#### 4.NVDIA显卡的机器
 
 nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
 
@@ -142,7 +156,7 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 ### 五、本教程适用的主板包括
 
-#### 微星H310,微星B360,微星Z370，微星Z390
+#### ·微星H310,微星B360,微星Z370，微星Z390
 
 ##### 关于微星主板的测试结果：
 
@@ -156,13 +170,13 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 ##### 3.Z390系列无法安装的请添加RTC补丁并尝试
 
-#### 技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
+#### ·技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
 
 关于技嘉主板的测试结果：
 
 ##### 如通过本文方法无法安装的，请尝试替换SMC驱动，或添加RTC补丁
 
-#### 华硕H310,华硕B360,华硕Z370,华硕Z390
+#### ·华硕H310,华硕B360,华硕Z370,华硕Z390
 
 关于华硕主板的测试结果：
 
@@ -176,11 +190,11 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 -----删除FakeSMC.KEXT,放入VirtualSMC.kext
 
-#### 昂达H310C
+#### ·昂达H310C
 
 或
 
-#### H310,B360,Z370，Z390芯片组的台式机电脑
+#### ·H310,B360,Z370，Z390芯片组的台式机电脑
 
 具体请自行测试。
 
