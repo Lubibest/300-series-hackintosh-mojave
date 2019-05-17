@@ -66,7 +66,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 重启生效
 
-AMD显卡的机器将持续得到clover升级的支持
+AMD-rx显卡的机器将持续得到clover升级的支持
 
 #### 2.AMD-vega显卡
 
