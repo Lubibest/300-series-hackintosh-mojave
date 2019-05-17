@@ -128,7 +128,7 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 微星H310,微星B360,微星Z370，微星Z390
 
-关于微信主板的测试结果：
+关于微星主板的测试结果：
 
 经测试，微星系列B360/Z390系列的最新的BIOS通过本文方法无法安装
 
@@ -141,6 +141,10 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 3.Z390系列无法安装的请添加RTC补丁并尝试
 
 技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
+
+关于技嘉主板的测试结果：
+
+如通过本文方法无法安装的，请尝试替换SMC驱动，或添加RTC补丁
 
 华硕H310,华硕B360,华硕Z370,华硕Z390
 
