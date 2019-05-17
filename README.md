@@ -136,7 +136,7 @@ https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Mojave-10.14-i
 
 https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solutions.html
 
-### 五.本教程适用的主板包括
+### 五、本教程适用的主板包括
 
 #### 微星H310,微星B360,微星Z370，微星Z390
 
@@ -184,9 +184,9 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 如有疑问，请添加QQ：2489050703 Genius-lbesT
 
-### 六.AMD显卡的EFI将在后续的os版本升级中得到更新
+### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
-### 七.本教程EFI由
+### 七、本教程EFI由
 
 -垃圾帮主-修改制作
 
