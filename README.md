@@ -130,13 +130,15 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 关于微信主板的测试结果：
 
-经测试，微星系列B360系列的最新的BIOS通过本文方法无法安装
+经测试，微星系列B360/Z390系列的最新的BIOS通过本文方法无法安装
 
 解决方案：
 
 1.通过降级到官方发布的2018年5月至8月之间的BIOS，可以正常安装，并没有任何问题（可以用过正常的手段刷入，刷BIOS要求，U盘格式FAT32,USB2.0刷入）
 
 2.通过添加RTC补丁，可以进行安装，关于RTC补丁的说明：https://github.com/acidanthera/RTCMemoryFixup
+
+3.Z390系列无法安装的请添加RTC补丁并尝试
 
 技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
 
@@ -161,6 +163,8 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 H310,B360,Z370，Z390芯片组的台式机电脑
 
 具体请自行测试。
+
+欢迎大家把测试结果反馈给我
 
 如有疑问，请添加QQ：2489050703 Genius-lbesT
 
