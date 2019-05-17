@@ -128,6 +128,12 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 微星H310,微星B360,微星Z370，微星Z390
 
+经测试，微星系列B360系列的最新的BIOS通过本文方法无法安装
+
+解决方案：
+
+1.通过降级到官方发布的2018年5月至8月之间的BIOS，可以正常安装，并没有任何问题（刷BIOS要求，U盘格式FAT32,USB2.0刷入）
+
 技嘉H310,技嘉B360,技嘉Z370，技嘉Z390
 
 华硕H310,华硕B360,华硕Z370,华硕Z390
