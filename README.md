@@ -70,7 +70,7 @@ AMD显卡的机器将持续得到clover升级的支持
 
 3.intel
 
-Intel HD530 核显推荐安装mojave10.14.5
+Intel UHD630 核显推荐安装mojave10.14.5
 
 镜像下载地址：
 
