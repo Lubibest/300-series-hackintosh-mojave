@@ -46,27 +46,31 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 镜像下载：https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
-### 一、安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
+
+
+### 一、安装教程
+
+https://github.com/Lubibest/How-to-install-a-Hackintosh
 
 ### 二、安装
 
 #### 1.AMD显卡
 
-##### AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
+AMD免驱显卡推荐安装mojave10.14.5，镜像下载地址：
 
 https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html
 
 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
-用**clover configurator**替换U盘的**ESP分区**的**EFI文件**为EFI-for-after install-AMD.zip
+用**clover configurator**替换U盘的**ESP分区**的EFI文件为**EFI-for-after install-AMD.zip**
 
 重启生效
 
 AMD显卡的机器将持续得到clover升级的支持
 
-#### 2.intel
+### 2.intel
 
-##### Intel UHD630 核显推荐安装mojave10.14.5
+Intel UHD630 核显推荐安装mojave10.14.5
 
 镜像下载地址：
 
@@ -74,19 +78,15 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 安装教程：https://github.com/Lubibest/How-to-install-a-Hackintosh
 
-https://github.com/Lubibest/How-to-install-a-Hackintosh
+用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
-用**clover configurator**替换U盘的**ESP分区**的**EFI文件**为EFI-for-after install-intel.zip
-
-PS：intel注入为**0X12345678**,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
+PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
 intel的机器将会持续得到clover升级的支持
 
-如需要技术支持，请加我的QQ
-
 #### 3.NVDIA显卡的机器
 
-##### nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
+nvdia显卡推荐安装10.13.6（17G65)，镜像下载地址：
 
 https://blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html
 
@@ -98,7 +98,9 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 重启生效
 
-由于nvdia显卡无法更新os版本，**我将不再为nvdia显卡的机器更新clover**。
+由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
+
+如需要技术支持，请加我的QQ
 
 ### 三、本教程中已放入applealc.kext，并未添加声卡ID
 
@@ -124,7 +126,7 @@ s1220a 注入 1/2
 
 Devices/Audio/inject(手动输入）
 
-![](/Users/luzi/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Hackintosh/appleALC.png)
+![](https://github.com/Lubibest/300-series-hackintosh-mojave/blob/master/appleALC.png)
 
 ### 四、注意事项
 
