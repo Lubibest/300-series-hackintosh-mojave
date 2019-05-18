@@ -14,14 +14,6 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 感谢黑果小兵daliansky
 
-#### 适用于HD530的100系主板的请阅读：
-
-https://github.com/Lubibest/100-series-hackintosh-mojave
-
-#### 适用于hd630的200系主板的请阅读：
-
-https://github.com/Lubibest/200-series-hackintosh-mojave
-
 
 
 # 正文
@@ -202,7 +194,19 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
-### 七、本教程EFI由
+### 七、其他
+
+#### 适用于HD530的100系主板的请阅读：
+
+https://github.com/Lubibest/100-series-hackintosh-mojave
+
+#### 适用于hd630的200系主板的请阅读：
+
+https://github.com/Lubibest/200-series-hackintosh-mojave
+
+### 八、本教程EFI
+
+由
 
 -垃圾帮主-修改制作
 
