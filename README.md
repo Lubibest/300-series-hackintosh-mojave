@@ -114,8 +114,6 @@ bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/m
 
 由于nvdia显卡无法更新os版本，我将不再为nvdia显卡的机器更新clover。
 
-如需要技术支持，请加我的QQ
-
 ### 三、本教程中已放入applealc.kext，并未添加声卡ID
 
 请根据自己的声卡型号尝试注入声卡ID，声卡ID请查阅下面这篇教程：
@@ -200,8 +198,6 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 
 欢迎大家把测试结果反馈给我
 
-如有疑问，请添加QQ：2489050703 Genius-lbesT
-
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
 ### 七、本教程EFI由
@@ -209,8 +205,6 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 -垃圾帮主-修改制作
 
 -Genius lbesT-发布
-
-并提供远程教学安装服务，如需远程技术支持，请添加我的QQ
 
 作者：Genius-lbesT QQ2489050703
 
