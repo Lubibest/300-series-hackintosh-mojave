@@ -66,7 +66,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 重启生效
 
-AMD-rx显卡的机器将持续得到clover升级的支持
+AMD显卡的机器将持续得到clover升级的支持
 
 #### 2.AMD-vega显卡
 
@@ -94,7 +94,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clo
 
 用clover configurator替换U盘的ESP分区的EFI文件为EFI-for-after install-intel.zip  
 
-PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程未对核显机器完善驱动
+PS：intel注入为0X12345678,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
 intel的机器将会持续得到clover升级的支持
 
@@ -197,6 +197,8 @@ https://blog.daliansky.net/macOS-10.13-installation-of-common-problems-and-solut
 具体请自行测试。
 
 欢迎大家把测试结果反馈给我
+
+如有疑问，请添加QQ：2489050703 Genius-lbesT
 
 ### 六、AMD显卡的EFI将在后续的os版本升级中得到更新
 
