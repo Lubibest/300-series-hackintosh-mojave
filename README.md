@@ -62,7 +62,7 @@ AMD免驱显卡推荐安装mojave10.14.5，[镜像下载](https://blog.daliansky
 
 使用[**EFI-for-install**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-用「**clover configurator**」替换U盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD-VEGA.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD-VEGA.zip)
+用「**clover configurator**」替换硬盘的**ESP分区**的EFI文件为[**EFI-for-after install-AMD-VEGA.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-after%20install-AMD-VEGA.zip)
 
 重启生效
 
@@ -74,7 +74,7 @@ AMD免驱显卡推荐安装mojave10.14.5，[镜像下载](https://blog.daliansky
 
 使用[**EFI-for-install**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-install.zip)进行安装系统
 
-用clover configurator替换U盘的ESP分区的EFI文件为[**EFI-for-after install-intel.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-after%20install-intel.zip)
+用clover configurator替换硬盘的ESP分区的EFI文件为[**EFI-for-after install-intel.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/EFI-for-after%20install-intel.zip)
 
 PS：intel注入为`0X12345678`,请查阅核显ID列表查找并尝试驱动或通过Hackintool注入补丁，本教程为对核显机器完善驱动。
 
