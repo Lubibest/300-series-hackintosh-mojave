@@ -196,5 +196,5 @@ qq群：724096369
 
 ![](https://github.com/Lubibest/Hackintosh/blob/master/JPG/QQ.png)
 
- **黑苹果Genius**
+  **黑苹果Genius**  [打赏](https://github.com/Lubibest/About-Genius-lbesT)
 
