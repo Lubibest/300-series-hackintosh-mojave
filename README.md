@@ -6,7 +6,7 @@
 
 本教程制作为**8/9代CPU的uhd630**核显台式机CPU通用的安装及完善驱动.
 
-[**下载本教程的附件**](https://github.com/Lubibest/200-series-hackintosh-mojave/archive/master.zip)
+[**下载本教程的附件**](https://github.com/Lubibest/300-series-hackintosh-mojave/archive/master.zip)
 
 
 
