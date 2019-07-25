@@ -24,11 +24,9 @@ EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 
 
 # 正文
 
-##### AMD / NVDIA / INTEL均可通过EFI-for-install.zip安装到机器上.
+## 20190726 update
 
-EFI蓝本为黑果小兵daliansky博客 blog.daliansky.net 的镜像with clover 4903（nvdia)/clover 4928(AMD+INTEL)提取.
-
-NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
+上传附件[**300-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/300-series-hackintosh-mojave-10.14.6-AMD.zip)，更新CLOVER至5027，支持8/9代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
 
 感谢黑果小兵daliansky
 
@@ -46,9 +44,6 @@ NVDIA支持10.13.6/AMD+INTEL支持最新版本mojave10.14.5
 
 ### 二、安装
 
-## 20190726 update
-
-上传附件[**300-series-hackintosh-mojave-10.14.6-AMD.zip**](https://github.com/Lubibest/300-series-hackintosh-mojave/raw/master/300-series-hackintosh-mojave-10.14.6-AMD.zip)，更新CLOVER至5027，支持8/9代CPU配备AMD显卡的台式机在线升级10.14.6，请自行测试。
 
 有问题请加群问。
 
